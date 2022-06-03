@@ -41,6 +41,7 @@
 
 .bicicleta-comprar a{
     grid-row: span 2;
+    text-transform: uppercase;
 }
 
 .bicicleta-comprar span{

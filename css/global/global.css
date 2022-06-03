@@ -26,3 +26,8 @@ img{
 img[src$=".jpg"]{
     border-radius: 4px;
 }
+
+button{
+    border: none;
+    cursor: pointer;
+}
