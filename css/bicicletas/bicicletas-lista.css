@@ -57,7 +57,7 @@
 
 @media(max-width: 800px){
     .bicicletas-lista{
-        padding: 0 0 60px 0;
+        padding-bottom: 60px;
     }
 
     .bicicletas-lista ul{
